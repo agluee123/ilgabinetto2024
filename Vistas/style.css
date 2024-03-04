@@ -1,0 +1,57 @@
+/* Aumenta el tamaño de las letras en la barra de navegación */
+.navbar-nav .nav-link {
+    font-size: 25px; /* Ajusta el tamaño de la fuente según tus preferencias */
+}
+
+footer{
+    margin-top: 30px;
+    background-color: grey;
+}
+
+
+@keyframes fade {
+    0% {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Aplica la animación de desvanecimiento a las diapositivas del carrusel */
+.carousel-inner .carousel-item {
+    animation: fade 1s ease-in-out;
+}
+
+/* Estilos normales para los enlaces del menú */
+.navbar {
+    background-color: gray; /* Color de fondo normal (transparente en este caso) */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transición suave para el color de fondo y el color del texto */
+}
+
+.navbar .navbar-nav .nav-link {
+    color: black; /* Color de texto normal */
+}
+
+/* Estilos para los enlaces del menú al pasar el mouse */
+.navbar:hover {
+    background-color: red; /* Cambia el color de fondo al pasar el mouse */
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    color: red; /* Cambia el color del texto al pasar el mouse */
+}
+
+/* Estilo normal para las tarjetas */
+.card {
+    transition: box-shadow 0.3s ease; /* Transición suave para el sombreado */
+}
+
+/* Estilo para las tarjetas al pasar el mouse */
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Cambia el sombreado al pasar el mouse */
+}
+
+
