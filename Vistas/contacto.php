@@ -1,5 +1,5 @@
 <?php
-include_once("../Negocio/mail.php"); 
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -62,7 +62,20 @@ include_once("../Negocio/mail.php");
     <div class="container">
         <br>
         <h1 class="text-center">Formulario de Contacto</h1>
-        <form id="contact-form" method="POST" action="../Negocio/mail.php">
+        <?php
+        // Verificar si se ha enviado el parámetro 'enviado' para mostrar mensajes
+        if (isset($_GET['enviado'])) {
+            if ($_GET['enviado'] == 1) {
+                // Mostrar mensaje de éxito con JavaScript
+                echo '<script>alert("El correo se envió correctamente");</script>';
+            } elseif ($_GET['enviado'] == 0) {
+                // Mostrar mensaje de error con JavaScript
+                echo '<script>alert("Error al enviar el correo ");</script>';
+            }
+        }
+        ?>
+
+        <form id="contact-form" method="POST" action="/ilgabinetto/Negocio/mail.php">
             <div class="mb-3">
                 <label for="nombre" class="form-label">Nombre</label>
                 <input type="text" class="form-control" id="nombre" name="nombre" required>
@@ -75,11 +88,11 @@ include_once("../Negocio/mail.php");
                 <label for="mensaje" class="form-label">Mensaje</label>
                 <textarea class="form-control" id="mensaje" name="mensaje" rows="14" style="resize: none;" required></textarea>
             </div>
-            <button type="submit" class="btn btn-primary" style="background-color: grey;border-color: white;">Enviar</button>
+            <button type="submit" class="btn btn-primary" style="background-color: grey;border-color: white;" name="enviar">Enviar</button>
+            <div id="mensaje"></div>
+
         </form>
     </div>
-
-
 
 
     <script src="/ilgabinetto/js/bootstrap.bundle.min.js"></script>

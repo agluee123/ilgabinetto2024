@@ -6,7 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Il gabinetto</title>
   <link rel="stylesheet" href="/ilgabinetto/css/bootstrap.min.css" />
-  <link rel="stylesheet" href="/ilgabinetto/Vistas/style.css" />
+  <link rel="stylesheet" href="/ilgabinetto/vistas/style.css" />
+
 </head>
 
 <body>
@@ -61,8 +62,7 @@
       <div class="row">
         <div class="col-12 col-sm-6 col-md-4 mb-4">
           <div class="card" style="height: 600px;">
-            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Com 50.jpg" class="card-img-top" alt="Mueble 1"
-              style="object-fit: cover; height: 100%;">
+            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Com 50.jpg" class="card-img-top" alt="Mueble 1">
             <div class="card-body">
               <h5 class="card-title">Vanitory 2 puertas 0.50 mts c/bacha.</h5>
             </div>
@@ -71,8 +71,7 @@
 
         <div class="col-12 col-sm-6 col-md-4 mb-4">
           <div class="card" style="height: 600px;">
-            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 50.jpg" class="card-img-top" alt="Mueble 2"
-              style="object-fit: cover; height: 100%;">
+            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 50.jpg" class="card-img-top" alt="Mueble 2">
             <div class="card-body">
               <h5 class="card-title">Vanitory 2 puertas 2 cajones 0.50 mts c/bacha.</h5>
             </div>
@@ -82,8 +81,7 @@
 
         <div class="col-12 col-sm-6 col-md-4 mb-4">
           <div class="card" style="height: 600px;">
-            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Com 60.jpg" class="card-img-top" alt="Mueble 3"
-              style="object-fit: cover; height: 100%;">
+            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Com 60.jpg" class="card-img-top" alt="Mueble 3">
             <div class="card-body">
               <h5 class="card-title">Vanitory 2 puertas 0.60 c/bacha.</h5>
             </div>
@@ -92,8 +90,7 @@
 
         <div class="col-12 col-sm-6 col-md-4 mb-4">
           <div class="card" style="height: 600px;">
-            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 60.jpg" class="card-img-top" alt="Mueble 4"
-              style="object-fit: cover; height: 100%;">
+            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 60.jpg" class="card-img-top" alt="Mueble 4">
             <div class="card-body">
               <h5 class="card-title">Vanitory 2 puertas 2 cajones 0.60 c/bacha.</h5>
             </div>
@@ -102,8 +99,7 @@
 
         <div class="col-12 col-sm-6 col-md-4 mb-4">
           <div class="card" style="height: 600px;">
-            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 60.jpg" class="card-img-top" alt="Mueble 5"
-              style="object-fit: cover; height: 100%;">
+            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 60.jpg" class="card-img-top" alt="Mueble 5">
             <div class="card-body">
               <h5 class="card-title">Vanitory 2 puertas 2 cajones 0.70 mts c/bacha.</h5>
             </div>
@@ -112,8 +108,7 @@
 
         <div class="col-12 col-sm-6 col-md-4 mb-4">
           <div class="card" style="height: 600px;">
-            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 80.jpg" class="card-img-top" alt="Mueble 6"
-              style="object-fit: cover; height: 100%;">
+            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 80.jpg" class="card-img-top" alt="Mueble 6">
             <div class="card-body">
               <h5 class="card-title">Vanitory 2 puertas 2 cajones 0.80 mts c/bacha.</h5>
             </div>
@@ -122,8 +117,8 @@
 
         <div class="col-12 col-sm-6 col-md-4 mb-4">
           <div class="card" style="height: 500px;">
-            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 100.jpg" class="card-img-top" alt="Mueble 6"
-              style="object-fit: cover; height: 100%;">
+            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 100.jpg" class="card-img-top"
+              alt="Mueble 6">
             <div class="card-body">
               <h5 class="card-title">Vanitory 4 puertas 2 cajones 100 c/guia c/bacha.</h5>
             </div>
@@ -136,18 +131,17 @@
         <div class="row">
           <div class="col-12 col-sm-6 col-md-4 mb-4">
             <div class="card" style="height: 600px;">
-              <img src="/ilgabinetto/imagenes/fotos muebles/Marales/Maral 50.jpg" class="card-img-top" alt="Mueble 8"
-                style="object-fit: cover; height: 100%;">
+              <img src="/ilgabinetto/imagenes/fotos muebles/Marales/Maral 50.jpg" class="card-img-top" alt="Mueble 8">
               <div class="card-body">
                 <h5 class="card-title">Vanitory maral c/vidrio 0.50 mts c/bacha.</h5>
               </div>
             </div>
           </div>
 
-          <div class="col-md-4 mb-4">
+          <div class="col-12 col-sm-6 col-md-4 mb-4">
             <div class="card" style="height: 600px;">
-              <img src="/ilgabinetto/imagenes/fotos muebles/Marales/Maral 80 wengue.jpg" class="card-img-top" alt="Mueble 9"
-                style="object-fit: cover; height: 100%;">
+              <img src="/ilgabinetto/imagenes/fotos muebles/Marales/Maral 80 wengue.jpg" class="card-img-top"
+                alt="Mueble 9">
               <div class="card-body">
                 <h5 class="card-title">Vanitory maral c/vidrio 0.80 mts w c/bacha.</h5>
               </div>
@@ -155,10 +149,9 @@
           </div>
 
 
-          <div class="col-md-4 mb-4">
+          <div class="col-12 col-sm-6 col-md-4 mb-4">
             <div class="card" style="height: 600px;">
-              <img src="/ilgabinetto/imagenes/fotos muebles/Marales/Maral 100.jpg" class="card-img-top" alt="Mueble 9"
-                style="object-fit: cover; height: 70%;">
+              <img src="/ilgabinetto/imagenes/fotos muebles/Marales/Maral 100.jpg" class="card-img-top" alt="Mueble 9">
               <div class="card-body">
                 <h5 class="card-title">Vanitory maral c/vidrio 100 mts c/bacha.</h5>
               </div>
@@ -171,7 +164,7 @@
             <div class="col-12 col-sm-6 col-md-4 mb-4">
               <div class="card" style="height: 600px;">
                 <img src="/ilgabinetto/imagenes/fotos muebles/Peinador Clasico/Peina 50.jpg" class="card-img-top"
-                  alt="Peinador Clásico 1" style="object-fit: cover; height: 100%;">
+                  alt="Peinador Clásico 1">
                 <div class="card-body">
                   <h5 class="card-title">Peinador c/luces y puerta de 50</h5>
                 </div>
@@ -181,7 +174,7 @@
             <div class="col-12 col-sm-6 col-md-4 mb-4">
               <div class="card" style="height: 600px;">
                 <img src="/ilgabinetto/imagenes/fotos muebles/Peinador Clasico/Peina 60.jpg" class="card-img-top"
-                  alt="Peinador Clásico 2" style="object-fit: cover; height: 100%;">
+                  alt="Peinador Clásico 2">
                 <div class="card-body">
                   <h5 class="card-title">Peinador c/luces y puerta de 60</h5>
                 </div>
@@ -194,7 +187,7 @@
               <div class="col-12 col-sm-6 col-md-4 mb-4">
                 <div class="card" style="height: 600px;">
                   <img src="/ilgabinetto/imagenes/fotos muebles/Peinador maral/Peina Maral 100.jpg" class="card-img-top"
-                    alt="Peinador Clásico 1" style="object-fit: cover; height: 60%;">
+                    alt="Peinador Clásico 1">
                   <div class="card-body">
                     <h5 class="card-title">Peinador c/luces y puerta maral de 100</h5>
                   </div>
@@ -207,7 +200,7 @@
                 <div class="col-12 col-sm-6 col-md-4 mb-4">
                   <div class="card" style="height: 600px;">
                     <img src="/ilgabinetto/imagenes/fotos muebles/Tolva Clasica/Tolva 40.jpg" class="card-img-top"
-                      alt="Peinador Clásico 1" style="object-fit: cover; height: 100%;">
+                      alt="Peinador Clásico 1">
                     <div class="card-body">
                       <h5 class="card-title">Tolva 0.40 mts</h5>
                     </div>
@@ -220,7 +213,7 @@
                   <div class="col-12 col-sm-6 col-md-4 mb-4">
                     <div class="card" style="height: 600px;">
                       <img src="/ilgabinetto/imagenes/fotos muebles/Tolva Maral/Tolva Maral 40.jpg" class="card-img-top"
-                        alt="Peinador Clásico 1" style="object-fit: cover; height: 100%;">
+                        alt="Peinador Clásico 1">
                       <div class="card-body">
                         <h5 class="card-title">Tolva maral 0.40 mts.</h5>
                       </div>
@@ -234,6 +227,11 @@
           </div>
         </div>
 
+      </div>
+
+      <div class="wasap">
+        <a href="https://wa.me/1157335794"><img src="/ilgabinetto/imagenes/WhatsApp.svg.webp" alt=""
+            class="buton-wasap"></a>
       </div>
 
   </div>
