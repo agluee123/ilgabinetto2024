@@ -1,0 +1,121 @@
+/* Aumenta el tamaño de las letras en la barra de navegación */
+.navbar-nav .nav-link {
+    font-size: 25px;
+    /* Ajusta el tamaño de la fuente según tus preferencias */
+}
+
+footer {
+    margin-top: 30px;
+    background-color: grey;
+}
+
+
+@keyframes fade {
+    0% {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Aplica la animación de desvanecimiento a las diapositivas del carrusel */
+.carousel-inner .carousel-item {
+    animation: fade 1s ease-in-out;
+}
+
+/* Estilos normales para los enlaces del menú */
+.navbar {
+    background-color: gray;
+    /* Color de fondo normal (transparente en este caso) */
+    transition: background-color 0.3s ease, color 0.3s ease;
+    /* Transición suave para el color de fondo y el color del texto */
+}
+
+.navbar .navbar-nav .nav-link {
+    color: black;
+    /* Color de texto normal */
+}
+
+/* Estilos para los enlaces del menú al pasar el mouse */
+.navbar:hover {
+    background-color: red;
+    /* Cambia el color de fondo al pasar el mouse */
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    color: red;
+    /* Cambia el color del texto al pasar el mouse */
+}
+
+/* Estilo normal para las tarjetas */
+.card {
+    transition: box-shadow 0.3s ease;
+    /* Transición suave para el sombreado */
+    width: 100%;
+    max-width: 400px;
+    height: 400px;
+    border: 2px solid lightgray;
+
+}
+
+/* Estilo para las tarjetas al pasar el mouse */
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    /* Cambia el sombreado al pasar el mouse */
+}
+
+.card-img-top {
+    object-fit: contain;
+    height: 500px;
+
+}
+
+
+
+.card-title {
+    font-size: 25px;
+    color: black;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.buton-wasap {
+    height: 100px;
+    width: auto;
+}
+
+.wasap {
+    position: fixed;
+    /* Posición fija para que se mantenga en el mismo lugar independientemente del desplazamiento */
+    right: 30px;
+    /* Espacio desde el borde izquierdo */
+    bottom: 20px;
+    /* Espacio desde el borde inferior */
+    z-index: 9999;
+    /* Asegura que esté sobre otros elementos */
+}
+
+
+@media (max-width: 768px) {
+
+    .buton-wasap {
+        height: 60px;
+        width: auto;
+    }
+
+
+}
+
+.carousel-caption.bg-dark-transparent {
+    background-color: rgba(0, 0, 0, 0.5); /* Color oscuro semi-transparente */
+    padding: 20px; /* Espaciado interno */
+    width: 100%; /* Hacer que el rectángulo ocupe todo el ancho */
+    left: 0; /* Alinear el rectángulo a la izquierda */
+    bottom: 0; /* Alinear el rectángulo en la parte inferior */
+    text-align: center; /* Alinear el contenido al centro */
+  }
+

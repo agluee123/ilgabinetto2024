@@ -1,0 +1,8 @@
+.carousel-caption.bg-dark-transparent {
+    background-color: rgba(0, 0, 0, 0.671); /* Color oscuro semi-transparente */
+    padding: 20px; /* Espaciado interno */
+    width: 100%; /* Hacer que el rectángulo ocupe todo el ancho */
+    left: 0; /* Alinear el rectángulo a la izquierda */
+    bottom: 0; /* Alinear el rectángulo en la parte inferior */
+    text-align: center; /* Alinear el contenido al centro */
+  }
