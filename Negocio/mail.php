@@ -16,13 +16,13 @@ if (isset($_POST["enviar"])) {
         $mail->isSMTP();
         $mail->Host = 'smtp.mail.yahoo.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'digimonaguante09@yahoo.com';
-        $mail->Password = 'czvofeforkruhgrb';
+        $mail->Username = 'ilgabinetto@yahoo.com.ar';
+        $mail->Password = 'nvzjgfgieyxeqmvd';
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
-        $mail->setFrom('digimonaguante09@yahoo.com', 'Sistema formulario');
-        $mail->addAddress('digimonaguante09@yahoo.com', 'agustin');
+        $mail->setFrom('ilgabinetto@yahoo.com.ar', 'Sistema formulario');
+        $mail->addAddress('ilgabinetto@yahoo.com.ar', 'agustin');
 
         $mail->isHTML(true);
         $mail->Subject = "Nuevo mensaje de $nombre";

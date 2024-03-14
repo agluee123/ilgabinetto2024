@@ -69,12 +69,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <h1>Sobre Nosotros</h1>
-                <p>Somos una empresa comprometida con la excelencia y la innovación en la industria. Nuestra misión es
-                    proporcionar soluciones de calidad a nuestros clientes y superar sus expectativas en cada proyecto
-                    que emprendemos.</p>
-                <p>Con más de 10 años de experiencia en el mercado, hemos construido una reputación sólida y confiable.
-                    Estamos dedicados a trabajar en equipo y aportar nuestro conocimiento y experiencia para lograr el
-                    éxito de nuestros clientes.</p>
+                <p>En Ilgabinetto, nos especializamos en la fabricación de vanitorys de alta calidad para clientes mayoristas. Nuestros productos destacan por su excelente calidad y durabilidad. Estamos comprometidos a brindar un servicio excepcional a nuestros clientes, asegurando su completa satisfacción en cada paso del proceso.</p>
             </div>
             <div class="col-lg-6">
                 <img src="https://via.placeholder.com/400x300" alt="Imagen de la empresa" class="img-fluid">
@@ -86,20 +81,11 @@
         <div class="row">
             <div class="col-lg-12">
                 <h2>Nuestra Historia</h2>
-                <p>Desde nuestra fundación en [año de fundación], hemos estado comprometidos con [misión o enfoque de la
-                    empresa]. A lo largo de los años, hemos [logros o hitos importantes en la historia de la empresa].
-                </p>
-            </div>
-        </div>
-    </div>
+                <p>Desde nuestros humildes inicios a principios de los años 2000, Ilgabinetto ha estado comprometido con la fabricación y distribución de vanitorys al por mayor en todo el territorio nacional. Nuestra historia está marcada por un constante crecimiento y dedicación a proporcionar soluciones de mobiliario de baño que satisfagan las necesidades de nuestros clientes.
 
-    <div class="container mt-5">
-        <div class="row">
-            <div class="col-lg-12">
-                <h2>Nuestro Equipo</h2>
-                <p>Nuestro equipo está formado por profesionales altamente calificados y apasionados por lo que hacen.
-                    Trabajamos juntos para brindar soluciones de calidad y superar las expectativas de nuestros
-                    clientes.</p>
+A medida que hemos avanzado en el tiempo, hemos logrado ganarnos la confianza de clientes clave gracias a nuestra capacidad para realizar entregas eficientes y confiables en el interior del país. Este enfoque en la calidad del servicio y la atención al cliente nos ha permitido expandir nuestra presencia en el mercado nacional, estableciendo relaciones sólidas y duraderas con una amplia gama de clientes en toda la industria.
+
+Hoy en día, Ilgabinetto se enorgullece de su posición como un jugador destacado en el sector del mobiliario para baño al por mayor, y seguimos comprometidos con nuestra misión de ofrecer productos de calidad y un servicio excepcional a cada uno de nuestros clientes en todo el país.</p>
             </div>
         </div>
     </div>
