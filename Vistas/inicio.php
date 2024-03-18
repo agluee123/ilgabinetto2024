@@ -4,6 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="google-site-verification" content="e1wkKrUcF43DSkx2de8DEFCgWGG1sZM9VBJ7IKQXnaM" />
   <title>Il gabinetto</title>
   <link rel="shortcut icon" href="/ilgabinetto/imagenes/icon.png" type="image/x-icon">
   <!-- CSS Bootstrap -->
