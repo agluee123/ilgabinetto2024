@@ -129,5 +129,17 @@ footer {
    
 }  
 
+.col-lg-6p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
 
+@media(max-width: 768px){
+    .col-lg-6p{
+        width: 100%;
+    }
+
+}
 

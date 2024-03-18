@@ -81,7 +81,7 @@
                 <p>Únase a nosotros mientras continuamos escribiendo el próximo capítulo de nuestra historia, ofreciendo vanitorys de calidad y servicio excepcional en cada paso del camino.</p>
 
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6p">
                 <img src="/ilgabinetto/imagenes/fotos muebles/FOTOS FABRICA 2018/21.jpg" alt="Imagen de la empresa" class="img-fluidd">
             </div>
         </div>
