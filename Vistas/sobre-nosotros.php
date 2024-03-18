@@ -9,6 +9,7 @@
     <!-- CSS Bootstrap -->
     <link rel="stylesheet" href="/ilgabinetto/css/bootstrap.min.css" />
     <link rel="stylesheet" href="/ilgabinetto/Vistas/style.css" />
+    <link rel="stylesheet" href="/ilgabinetto/Vistas/carrousel.css">
 </head>
 
 <body>
@@ -73,9 +74,10 @@
                 <p>En Il gabinetto, nos especializamos en la fabricación de vanitorys de alta calidad para clientes mayoristas. Nuestros productos destacan por su excelente calidad y durabilidad. Estamos comprometidos a brindar un servicio excepcional a nuestros clientes, asegurando su completa satisfacción en cada paso del proceso.</p>
             </div>
             <div class="col-lg-6">
-                <img src="https://via.placeholder.com/400x300" alt="Imagen de la empresa" class="img-fluid">
+                <img src="/ilgabinetto/imagenes/fotos muebles/FOTOS FABRICA 2018/22.jpg" alt="Imagen de la empresa" class="img-fluid">
             </div>
         </div>
+    </div>
     </div>
 
     <div class="container mt-5">
@@ -84,9 +86,9 @@
                 <h2>Nuestra Historia</h2>
                 <p>Desde nuestros humildes inicios a principios de los años 2000, Il gabinetto ha estado comprometido con la fabricación y distribución de vanitorys al por mayor en todo el territorio nacional. Nuestra historia está marcada por un constante crecimiento y dedicación a proporcionar soluciones de mobiliario de baño que satisfagan las necesidades de nuestros clientes.
 
-A medida que hemos avanzado en el tiempo, hemos logrado ganarnos la confianza de clientes clave gracias a nuestra capacidad para realizar entregas eficientes y confiables en el interior del país. Este enfoque en la calidad del servicio y la atención al cliente nos ha permitido expandir nuestra presencia en el mercado nacional, estableciendo relaciones sólidas y duraderas con una amplia gama de clientes en toda la industria.
+                    A medida que hemos avanzado en el tiempo, hemos logrado ganarnos la confianza de clientes clave gracias a nuestra capacidad para realizar entregas eficientes y confiables en el interior del país. Este enfoque en la calidad del servicio y la atención al cliente nos ha permitido expandir nuestra presencia en el mercado nacional, estableciendo relaciones sólidas y duraderas con una amplia gama de clientes en toda la industria.
 
-Hoy en día, Il gabinetto se enorgullece de su posición como un jugador destacado en el sector del mobiliario para baño al por mayor, y seguimos comprometidos con nuestra misión de ofrecer productos de calidad y un servicio excepcional a cada uno de nuestros clientes en todo el país.</p>
+                    Hoy en día, Il gabinetto se enorgullece de su posición como un jugador destacado en el sector del mobiliario para baño al por mayor, y seguimos comprometidos con nuestra misión de ofrecer productos de calidad y un servicio excepcional a cada uno de nuestros clientes en todo el país.</p>
             </div>
         </div>
     </div>
