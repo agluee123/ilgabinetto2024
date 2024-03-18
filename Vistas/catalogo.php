@@ -223,7 +223,7 @@
       </div>
 
       <div class="wasap">
-        <a href="https://wa.me/1157335794"><img src="/ilgabinetto/imagenes/WhatsApp.svg.webp" alt="" class="buton-wasap"></a>
+        <a href="https://wa.me/541157335794"><img src="/ilgabinetto/imagenes/WhatsApp.svg.webp" alt="" class="buton-wasap"></a>
       </div>
 
   </div>
