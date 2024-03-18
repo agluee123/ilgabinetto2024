@@ -12,6 +12,7 @@
     <!-- CSS Bootstrap -->
     <link rel="stylesheet" href="/ilgabinetto/css/bootstrap.min.css">
     <link rel="stylesheet" href="/ilgabinetto/Vistas/style.css">
+    <link rel="stylesheet" href="/ilgabinetto/Vistas/fuente.css">
 </head>
 
 <body>
@@ -94,6 +95,10 @@
 
         </form>
     </div>
+
+    <div class="wasap">
+        <a href="https://wa.me/1157335794"><img src="/ilgabinetto/imagenes/WhatsApp.svg.webp" alt="" class="buton-wasap"></a>
+      </div>
 
 
     <script src="/ilgabinetto/js/bootstrap.bundle.min.js"></script>

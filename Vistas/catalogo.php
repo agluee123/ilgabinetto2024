@@ -8,6 +8,7 @@
   <link rel="shortcut icon" href="/ilgabinetto/imagenes/icon.png" type="image/x-icon">
   <link rel="stylesheet" href="/ilgabinetto/css/bootstrap.min.css" />
   <link rel="stylesheet" href="/ilgabinetto/Vistas/style.css" />
+  <link rel="stylesheet" href="/ilgabinetto/Vistas/fuente.css">
 
 </head>
 

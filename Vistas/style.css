@@ -1,7 +1,8 @@
 /* Aumenta el tamaño de las letras en la barra de navegación */
 .navbar-nav .nav-link {
-    font-size: 25px;
+    font-size: 30px;
     /* Ajusta el tamaño de la fuente según tus preferencias */
+
 }
 
 footer {
@@ -118,4 +119,15 @@ footer {
     bottom: 0; /* Alinear el rectángulo en la parte inferior */
     text-align: center; /* Alinear el contenido al centro */
   }
+
+
+
+  .img-fluidd {
+    max-height: 400px;
+    object-fit: cover;
+    width: 600px;
+   
+}  
+
+
 

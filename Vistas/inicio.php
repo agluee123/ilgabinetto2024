@@ -10,6 +10,7 @@
   <link href="/ilgabinetto/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="/ilgabinetto/Vistas/style.css" />
   <link rel="stylesheet" href="/ilgabinetto/Vistas/carrousel.css">
+  <link rel="stylesheet" href="/ilgabinetto/Vistas/fuente.css">
 </head>
 
 <body>
