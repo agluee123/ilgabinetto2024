@@ -78,7 +78,7 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active" style="max-height: 900px; object-fit: cover;">
-        <img src="/ilgabinetto/imagenes/16.jpg" class="d-block img-fluid" alt="...">
+        <img src="/ilgabinetto/imagenes/16.jpg" class="d-block img-fluids" alt="...">
         <div class="carousel-caption d-none d-md-block bg-dark-transparent">
           <h2 class="text-white">Fabricación de muebles de primera calidad.</h2>
           <p class="text-white" style="font-size: 20px;">Fabricamos muebles de primera calidad que destacan por su elegancia y durabilidad. Confía en nosotros para llevar la excelencia a tu hogar o proyecto comercial.</p>
@@ -86,14 +86,14 @@
       </div>
 
       <div class="carousel-item" style="max-height: 900px ; object-fit:cover">
-        <img src="/ilgabinetto/imagenes/17.jpg" class="d-block img-fluid" alt="..." />
+        <img src="/ilgabinetto/imagenes/17.jpg" class="d-block img-fluids" alt="..." />
         <div class="carousel-caption d-none d-md-block bg-dark-transparent">
           <h2>Solo ventas por mayor.</h2>
           <p>Nos especializamos en ventas al por mayor para satisfacer las necesidades de proyectos comerciales y residenciales. Confía en nosotros para proveerte de muebles de primera calidad para baños a gran escala y a nivel individual para hogares..</p>
         </div>
       </div>
       <div class="carousel-item" style="max-height: 900px ; object-fit:cover">
-        <img src="/ilgabinetto/imagenes/30-min.jpg" class="d-block img-fluid" alt="..." />
+        <img src="/ilgabinetto/imagenes/30-min.jpg" class="d-block img-fluids" alt="..." />
         <div class="carousel-caption d-none d-md-block bg-dark-transparent">
           <h2>Servicio Puerta a Puerta para Ventas al Por Mayor.</h2>
           <p>Con nuestro servicio puerta a puerta, llevamos soluciones para baños directamente a tu negocio.</p>
