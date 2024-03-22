@@ -34,6 +34,11 @@ footer {
     /* Color de fondo normal (transparente en este caso) */
     transition: background-color 0.3s ease, color 0.3s ease;
     /* Transición suave para el color de fondo y el color del texto */
+    /*position:fixed;
+    z-index: 999;
+    width:100%;
+    top:0;*/
+
 }
 
 .navbar .navbar-nav .nav-link {
