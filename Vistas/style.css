@@ -149,15 +149,23 @@ footer {
 }
 
 /* Estilos para el logo */
-.logo{
+/* Estilos para el logo */
+.logo {
     width: 270px; /* Ancho predeterminado */
     height: auto; /* Mantener la proporción de aspecto */
 }
 
-/* @media query para tamaños de pantalla más pequeños */
+/* @media query para tamaños de pantalla medianos */
 @media (max-width: 768px) {
     .logo {
-        width: 230px; /* Cambiar el tamaño del logo para pantallas más pequeñas */
+        width: 300px; /* Cambiar el tamaño del logo para pantallas medianas */
+    }
+}
+
+/* @media query para tamaños de pantalla más pequeños */
+@media (max-width: 576px) {
+    .logo {
+        width: 180px; /* Cambiar el tamaño del logo para pantallas aún más pequeñas */
     }
 }
 
