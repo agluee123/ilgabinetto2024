@@ -23,7 +23,7 @@
             <!-- Centra el contenido horizontalmente -->
             <div class="mx-auto text-center">
                 <a class="navbar-brand" href="#">
-                    <img src="/ilgabinetto/imagenes/54c96c8c335ef95b13d92f0915ddbc36.png" alt="Logo" width="300" height="75" class="logo"/>
+                    <img src="/ilgabinetto/imagenes/54c96c8c335ef95b13d92f0915ddbc36.png" alt="Logo" width="300" height="75" class="logo" />
                 </a>
             </div>
 
@@ -99,7 +99,7 @@
 
     <div class="wasap">
         <a href="https://wa.me/541157335794"><img src="/ilgabinetto/imagenes/WhatsApp.svg.webp" alt="" class="buton-wasap"></a>
-      </div>
+    </div>
 
 
     <script src="/ilgabinetto/js/bootstrap.bundle.min.js"></script>
@@ -108,7 +108,7 @@
 <footer class="bg-light text-center text-muted py-4">
     <div class="container">
         <p>
-            &copy; 2023 Il gabinetto Fabrica de muebles para baño. Todos los
+            &copy; 2024 Il gabinetto Fabrica de muebles para baño. Todos los
             derechos reservados.
         </p>
         <p>Contáctanos: ilgabinetto@yahoo.com.ar | Teléfono: (011) 4467-5151</p>

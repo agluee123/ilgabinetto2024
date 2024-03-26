@@ -19,7 +19,7 @@
       <!-- Centra el contenido horizontalmente -->
       <div class="mx-auto text-center">
         <a class="navbar-brand" href="#">
-          <img src="/ilgabinetto/imagenes/54c96c8c335ef95b13d92f0915ddbc36.png" alt="Logo" width="300" height="75" class="logo"/>
+          <img src="/ilgabinetto/imagenes/54c96c8c335ef95b13d92f0915ddbc36.png" alt="Logo" width="300" height="75" class="logo" />
         </a>
       </div>
 
@@ -361,7 +361,7 @@
 
 <footer class="bg-light text-center text-muted py-4">
   <div>
-    <p>&copy; 2023 Il gabinetto Fabrica de muebles para baño. Todos los derechos reservados.</p>
+    <p>&copy; 2024 Il gabinetto Fabrica de muebles para baño. Todos los derechos reservados.</p>
     <p>Contáctanos: ilgabinetto@yahoo.com.ar | Teléfono: (011) 4467-5151</p>
   </div>
 </footer>

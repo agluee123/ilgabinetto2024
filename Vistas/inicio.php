@@ -21,7 +21,7 @@
       <!-- Centra el contenido horizontalmente -->
       <div class="mx-auto text-center">
         <a class="navbar-brand" href="#">
-          <img src="/ilgabinetto/imagenes/54c96c8c335ef95b13d92f0915ddbc36.png" alt="Logo" width="300" height="75" class="logo"/>
+          <img src="/ilgabinetto/imagenes/54c96c8c335ef95b13d92f0915ddbc36.png" alt="Logo" width="300" height="75" class="logo" />
         </a>
       </div>
 
@@ -78,7 +78,7 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active" style="max-height: 900px; object-fit: cover;">
-        <img src="/ilgabinetto/imagenes/16.jpg" class="d-block img-fluid" alt="..." style="width:100%"/>
+        <img src="/ilgabinetto/imagenes/16.jpg" class="d-block img-fluid" alt="..." style="width:100%" />
         <div class="carousel-caption d-none d-md-block bg-dark-transparent">
           <h2 class="text-white">Fabricación de muebles de primera calidad.</h2>
           <p class="text-white" style="font-size: 20px;">Fabricamos muebles de primera calidad que destacan por su elegancia y durabilidad. Confía en nosotros para llevar la excelencia a tu hogar o proyecto comercial.</p>
@@ -86,14 +86,14 @@
       </div>
 
       <div class="carousel-item" style="max-height: 900px ; object-fit:cover">
-        <img src="/ilgabinetto/imagenes/17.jpg" class="d-block img-fluid" alt="..." style="width:100%"/>
+        <img src="/ilgabinetto/imagenes/17.jpg" class="d-block img-fluid" alt="..." style="width:100%" />
         <div class="carousel-caption d-none d-md-block bg-dark-transparent">
           <h2>Solo ventas por mayor.</h2>
           <p>Nos especializamos en ventas al por mayor para satisfacer las necesidades de proyectos comerciales y residenciales. Confía en nosotros para proveerte de muebles de primera calidad para baños a gran escala y a nivel individual para hogares..</p>
         </div>
       </div>
       <div class="carousel-item" style="max-height: 900px ; object-fit:cover">
-        <img src="/ilgabinetto/imagenes/30-min.jpg" class="d-block img-fluid" alt="..." style="width:100%"/>
+        <img src="/ilgabinetto/imagenes/30-min.jpg" class="d-block img-fluid" alt="..." style="width:100%" />
         <div class="carousel-caption d-none d-md-block bg-dark-transparent">
           <h2>Servicio Puerta a Puerta para Ventas al Por Mayor.</h2>
           <p>Con nuestro servicio puerta a puerta, llevamos soluciones para baños directamente a tu negocio.</p>
@@ -161,14 +161,14 @@
   <footer class="bg-light text-center text-muted py-4">
     <div class="container">
       <p>
-        &copy; 2023 Il gabinetto Fabrica de muebles para baño. Todos los
+        &copy; 2024 Il gabinetto Fabrica de muebles para baño. Todos los
         derechos reservados.
       </p>
       <p>Contáctanos: ilgabinetto@yahoo.com.ar | Teléfono: (011) 4467-5151</p>
     </div>
   </footer>
 
-  
+
 
   <!-- Scripts de Bootstrap (deben estar al final del cuerpo del documento) -->
   <script src="/ilgabinetto/js/bootstrap.bundle.min.js"></script>
