@@ -54,7 +54,7 @@
   </nav>
 
   <div class="container">
-    <h1 class="my-4" style="text-align: center;">Catálogo de Muebles para baño
+    <h1 class="my-4" style="text-align: center;">Catálogo de Muebles para baño</h1>
 
 
       <!-- Sección de Línea Clásica -->
