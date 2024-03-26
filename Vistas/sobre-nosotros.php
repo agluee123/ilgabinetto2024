@@ -21,7 +21,7 @@
             <!-- Centra el contenido horizontalmente -->
             <div class="mx-auto text-center">
                 <a class="navbar-brand" href="#">
-                    <img src="/ilgabinetto/imagenes/54c96c8c335ef95b13d92f0915ddbc36.png" alt="Logo" width="300" height="75" />
+                    <img src="/ilgabinetto/imagenes/54c96c8c335ef95b13d92f0915ddbc36.png" alt="Logo" width="300" height="75" class="logo" />
                 </a>
             </div>
 

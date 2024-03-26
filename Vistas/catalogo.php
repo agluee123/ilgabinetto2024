@@ -19,7 +19,7 @@
       <!-- Centra el contenido horizontalmente -->
       <div class="mx-auto text-center">
         <a class="navbar-brand" href="#">
-          <img src="/ilgabinetto/imagenes/54c96c8c335ef95b13d92f0915ddbc36.png" alt="Logo" width="300" height="75" />
+          <img src="/ilgabinetto/imagenes/54c96c8c335ef95b13d92f0915ddbc36.png" alt="Logo" width="300" height="75" class="logo"/>
         </a>
       </div>
 
@@ -59,8 +59,8 @@
 
       <!-- Sección de Línea Clásica -->
       <section id="lineaClasica"></section>
-      <h2>Línea Clásica</h2>
-      <div class="row">
+      <h2 class="text-center">Línea Clásica</h2>
+      <div class="row justify-content-center">
         <div class="col-12 col-sm-6 col-md-4 mb-4">
           <div class="card" style="height: 600px;">
             <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Com 50.jpg" class="card-img-top" alt="Mueble 1">
@@ -127,8 +127,8 @@
 
         <!-- Sección de Línea Maral -->
         <section id="lineaMaral"></section>
-        <h2>Línea Maral</h2>
-        <div class="row">
+        <h2 class="text-center">Línea Maral</h2>
+        <div class="row justify-content-center">
           <div class="col-12 col-sm-6 col-md-4 mb-4">
             <div class="card" style="height: 600px;">
               <img src="/ilgabinetto/imagenes/fotos muebles/Marales/Maral 50.jpg" class="card-img-top" alt="Mueble 8">
@@ -168,8 +168,8 @@
           </div>
 
           <section id="lineaMaral"></section>
-          <h2>Línea Maral abierto</h2>
-          <div class="row">
+          <h2 class="text-center">Línea Maral abierto</h2>
+          <div class="row justify-content-center">
             <div class="col-12 col-sm-6 col-md-4 mb-4">
               <div class="card" style="height: 600px;">
                 <img src="/ilgabinetto/imagenes/fotos muebles/maral ab/abCdeck50.jpg" class="card-img-top" alt="Mueble 9">
@@ -189,8 +189,8 @@
             </div>
 
             <section id="peinadorClasico"></section>
-            <h2>Línea Peinador Clásico</h2>
-            <div class="row">
+            <h2 class="text-center">Línea Peinador Clásico</h2>
+            <div class="row justify-content-center">
               <div class="col-12 col-sm-6 col-md-4 mb-4">
                 <div class="card" style="height: 600px;">
                   <img src="/ilgabinetto/imagenes/fotos muebles/Peinador Clasico/Peina 50.jpg" class="card-img-top" alt="Peinador Clásico 1">
@@ -210,8 +210,8 @@
               </div>
 
               <section id="peinadorClasico"></section>
-              <h2>Línea Marcoespejo</h2>
-              <div class="row">
+              <h2 class="text-center">Línea Marcoespejo</h2>
+              <div class="row justify-content-center">
                 <div class="col-12 col-sm-6 col-md-4 mb-4">
                   <div class="card" style="height: 600px;">
                     <img src="/ilgabinetto/imagenes/fotos muebles/Marcoespejo/marcoespejo 50.jpg" class="card-img-top" alt="Peinador Clásico 1">
@@ -250,8 +250,8 @@
                 </div>
 
                 <section id="peinadorMaral"></section>
-                <h2>Línea Peinador Maral</h2>
-                <div class="row">
+                <h2 class="text-center">Línea Peinador Maral</h2>
+                <div class="row justify-content-center">
                   <div class="col-12 col-sm-6 col-md-4 mb-4">
                     <div class="card" style="height: 600px;">
                       <img src="/ilgabinetto/imagenes/fotos muebles/Peinador maral/Peina Maral 100.jpg" class="card-img-top" alt="Peinador Clásico 1">
@@ -262,8 +262,8 @@
                   </div>
 
                   <section id="tolvaClasica"></section>
-                  <h2>Línea Tolva Clasica</h2>
-                  <div class="row">
+                  <h2 class="text-center">Línea Tolva Clasica</h2>
+                  <div class="row justify-content-center">
                     <div class="col-12 col-sm-6 col-md-4 mb-4">
                       <div class="card" style="height: 600px;">
                         <img src="/ilgabinetto/imagenes/fotos muebles/Tolva Clasica/Tolva 40.jpg" class="card-img-top" alt="Peinador Clásico 1">
@@ -283,8 +283,8 @@
                     </div>
 
                     <section id="tolvaMaral"></section>
-                    <h2> Línea Tolva Maral</h2>
-                    <div class="row">
+                    <h2 class="text-center"> Línea Tolva Maral</h2>
+                    <div class="row justify-content-center">
                       <div class="col-12 col-sm-6 col-md-4 mb-4">
                         <div class="card" style="height: 600px;">
                           <img src="/ilgabinetto/imagenes/fotos muebles/Tolva Maral/Tolva Maral 40.jpg" class="card-img-top" alt="Peinador Clásico 1">
@@ -304,8 +304,8 @@
                       </div>
 
                       <section id="Lavaderos"></section>
-                      <h2>Línea Lavaderos</h2>
-                      <div class="row">
+                      <h2 class="text-center">Línea Lavaderos</h2>
+                      <div class="row justify-content-center">
                         <div class="col-12 col-sm-6 col-md-4 mb-4">
                           <div class="card" style="height: 600px;">
                             <img src="/ilgabinetto/imagenes/fotos muebles/Lavadero/lavadero 50.jpg" class="card-img-top" alt="Peinador Clásico 1">
