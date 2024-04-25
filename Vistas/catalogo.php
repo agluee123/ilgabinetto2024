@@ -39,10 +39,13 @@
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
               <li><a class="dropdown-item" href="#lineaClasica">Línea Clásica</a></li>
               <li><a class="dropdown-item" href="#lineaMaral">Línea Maral</a></li>
+              <li><a class="dropdown-item" href="#lineaMaralAbierto">Línea Maral abierto</a></li>
               <li><a class="dropdown-item" href="#peinadorClasico">Línea Peinador Clásico</a></li>
+              <li><a class="dropdown-item" href="#Marcoespejo">Línea Marcoespejo</a></li>
               <li><a class="dropdown-item" href="#peinadorMaral">Línea Peinador Maral</a></li>
               <li><a class="dropdown-item" href="#tolvaClasica">Línea Tolva Clásica</a></li>
               <li><a class="dropdown-item" href="#tolvaMaral">Línea Tolva Maral</a></li>
+              <li><a class="dropdown-item" href="#Lavadero">Línea Lavadero</a></li>
             </ul>
           </div>
 
@@ -167,7 +170,7 @@
             </div>
           </div>
 
-          <section id="lineaMaral"></section>
+          <section id="lineaMaralAbierto"></section>
           <h2 class="text-center">Línea Maral abierto</h2>
           <div class="row justify-content-center">
             <div class="col-12 col-sm-6 col-md-4 mb-4">
@@ -209,7 +212,7 @@
                 </div>
               </div>
 
-              <section id="peinadorClasico"></section>
+              <section id="Marcoespejo"></section>
               <h2 class="text-center">Línea Marcoespejo</h2>
               <div class="row justify-content-center">
                 <div class="col-12 col-sm-6 col-md-4 mb-4">
@@ -303,7 +306,7 @@
                         </div>
                       </div>
 
-                      <section id="Lavaderos"></section>
+                      <section id="Lavadero"></section>
                       <h2 class="text-center">Línea Lavaderos</h2>
                       <div class="row justify-content-center">
                         <div class="col-12 col-sm-6 col-md-4 mb-4">
