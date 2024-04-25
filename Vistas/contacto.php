@@ -41,15 +41,35 @@
                             Catálogo
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="catalogo.php#lineaClasica">Línea Clásica</a></li>
-                            <li><a class="dropdown-item" href="catalogo.php#lineaMaral">Línea Maral</a></li>
-                            <li><a class="dropdown-item" href="catalogo.php#peinadorClasico">Línea Peinador Clásico</a>
+                            <li>
+                                <a class="dropdown-item" href="catalogo.php#lineaClasica">Línea Clásica</a>
                             </li>
-                            <li><a class="dropdown-item" href="catalogo.php#peinadorMaral">Línea Peinador Maral</a>
+                            <li>
+                                <a class="dropdown-item" href="catalogo.php#lineaMaral">Línea Maral</a>
                             </li>
-                            <li><a class="dropdown-item" href="catalogo.php#tolvaClasica">Línea Tolva Clásica</a></li>
-                            <li><a class="dropdown-item" href="catalogo.php#tolvaMaral">Línea Tolva Maral</a></li>
+                            <li>
+                                <a class="dropdown-item" href="catalogo.php#lineaMaralAbierto">Línea Maral abierto</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="catalogo.php#peinadorClasico">Línea Peinador Clásico</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="catalogo.php#Marcoespejo">Línea Marcoespejo</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="catalogo.php#peinadorMaral">Línea Peinador Maral</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="catalogo.php#tolvaClasica">Línea Tolva Clásica</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="catalogo.php#tolvaMaral">Línea Tolva Maral</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="catalogo.php#Lavadero">Línea Lavadero</a>
+                            </li>
                         </ul>
+
                     </div>
 
                     <a class="nav-link" href="sobre-nosotros.php">Sobre Nosotros</a>

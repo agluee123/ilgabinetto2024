@@ -60,24 +60,102 @@
     <h1 class="my-4" style="text-align: center;">Catálogo de Muebles para baño</h1>
 
 
-      <!-- Sección de Línea Clásica -->
-      <section id="lineaClasica"></section>
-      <h2 class="text-center">Línea Clásica</h2>
+    <!-- Sección de Línea Clásica -->
+    <section id="lineaClasica"></section>
+    <h2 class="text-center">Línea Clásica</h2>
+    <div class="row justify-content-center">
+      <div class="col-12 col-sm-6 col-md-4 mb-4">
+        <div class="card" style="height: 600px;">
+          <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Com 50.jpg" class="card-img-top" alt="Mueble 1">
+          <div class="card-body">
+            <h5 class="card-title">Vanitory 2 puertas 0.50 cm c/bacha.</h5>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-sm-6 col-md-4 mb-4">
+        <div class="card" style="height: 600px;">
+          <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 50.jpg" class="card-img-top" alt="Mueble 2">
+          <div class="card-body">
+            <h5 class="card-title">Vanitory 2 puertas 2 cajones 0.50 cm c/bacha.</h5>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="col-12 col-sm-6 col-md-4 mb-4">
+        <div class="card" style="height: 600px;">
+          <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Com 60.jpg" class="card-img-top" alt="Mueble 3">
+          <div class="card-body">
+            <h5 class="card-title">Vanitory 2 puertas 0.60 cm c/bacha.</h5>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-sm-6 col-md-4 mb-4">
+        <div class="card" style="height: 600px;">
+          <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 60.jpg" class="card-img-top" alt="Mueble 4">
+          <div class="card-body">
+            <h5 class="card-title">Vanitory 2 puertas 2 cajones 0.60 cm c/bacha.</h5>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-sm-6 col-md-4 mb-4">
+        <div class="card" style="height: 600px;">
+          <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 60.jpg" class="card-img-top" alt="Mueble 5">
+          <div class="card-body">
+            <h5 class="card-title">Vanitory 2 puertas 2 cajones 0.70 cm c/bacha.</h5>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-sm-6 col-md-4 mb-4">
+        <div class="card" style="height: 600px;">
+          <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 80.jpg" class="card-img-top" alt="Mueble 6">
+          <div class="card-body">
+            <h5 class="card-title">Vanitory 2 puertas 2 cajones 0.80 cm c/bacha.</h5>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-sm-6 col-md-4 mb-4">
+        <div class="card" style="height: 500px;">
+          <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 100.jpg" class="card-img-top" alt="Mueble 6">
+          <div class="card-body">
+            <h5 class="card-title">Vanitory 4 puertas 2 cajones 100 cm c/guia c/bacha.</h5>
+          </div>
+        </div>
+      </div>
+
+      <!-- Sección de Línea Maral -->
+      <section id="lineaMaral"></section>
+      <h2 class="text-center">Línea Maral</h2>
       <div class="row justify-content-center">
         <div class="col-12 col-sm-6 col-md-4 mb-4">
           <div class="card" style="height: 600px;">
-            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Com 50.jpg" class="card-img-top" alt="Mueble 1">
+            <img src="/ilgabinetto/imagenes/fotos muebles/Marales/Maral 50.jpg" class="card-img-top" alt="Mueble 8">
             <div class="card-body">
-              <h5 class="card-title">Vanitory 2 puertas 0.50 cm c/bacha.</h5>
+              <h5 class="card-title">Vanitory maral c/vidrio 0.50 cm c/bacha.
+                c/bacha.</h5>
             </div>
           </div>
         </div>
 
         <div class="col-12 col-sm-6 col-md-4 mb-4">
           <div class="card" style="height: 600px;">
-            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 50.jpg" class="card-img-top" alt="Mueble 2">
+            <img src="/ilgabinetto/imagenes/fotos muebles/Marales/maral60.jpg" class="card-img-top" alt="Mueble 9">
             <div class="card-body">
-              <h5 class="card-title">Vanitory 2 puertas 2 cajones 0.50 cm c/bacha.</h5>
+              <h5 class="card-title">Vanitory maral c/vidrio 0.60 cm c/bacha.</h5>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 col-sm-6 col-md-4 mb-4">
+          <div class="card" style="height: 600px;">
+            <img src="/ilgabinetto/imagenes/fotos muebles/Marales/Maral 80 wengue.jpg" class="card-img-top" alt="Mueble 9">
+            <div class="card-body">
+              <h5 class="card-title">Vanitory maral c/vidrio 0.80 cm w c/bacha.</h5>
             </div>
           </div>
         </div>
@@ -85,277 +163,199 @@
 
         <div class="col-12 col-sm-6 col-md-4 mb-4">
           <div class="card" style="height: 600px;">
-            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Com 60.jpg" class="card-img-top" alt="Mueble 3">
+            <img src="/ilgabinetto/imagenes/fotos muebles/Marales/Maral 100.jpg" class="card-img-top" alt="Mueble 9">
             <div class="card-body">
-              <h5 class="card-title">Vanitory 2 puertas 0.60 cm c/bacha.</h5>
+              <h5 class="card-title">Vanitory maral c/vidrio 100 cm c/bacha.</h5>
             </div>
           </div>
         </div>
 
-        <div class="col-12 col-sm-6 col-md-4 mb-4">
-          <div class="card" style="height: 600px;">
-            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 60.jpg" class="card-img-top" alt="Mueble 4">
-            <div class="card-body">
-              <h5 class="card-title">Vanitory 2 puertas 2 cajones 0.60 cm c/bacha.</h5>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 col-sm-6 col-md-4 mb-4">
-          <div class="card" style="height: 600px;">
-            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 60.jpg" class="card-img-top" alt="Mueble 5">
-            <div class="card-body">
-              <h5 class="card-title">Vanitory 2 puertas 2 cajones 0.70 cm c/bacha.</h5>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 col-sm-6 col-md-4 mb-4">
-          <div class="card" style="height: 600px;">
-            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 80.jpg" class="card-img-top" alt="Mueble 6">
-            <div class="card-body">
-              <h5 class="card-title">Vanitory 2 puertas 2 cajones 0.80 cm c/bacha.</h5>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 col-sm-6 col-md-4 mb-4">
-          <div class="card" style="height: 500px;">
-            <img src="/ilgabinetto/imagenes/fotos muebles/Clasicos/Practico 100.jpg" class="card-img-top" alt="Mueble 6">
-            <div class="card-body">
-              <h5 class="card-title">Vanitory 4 puertas 2 cajones 100 cm c/guia c/bacha.</h5>
-            </div>
-          </div>
-        </div>
-
-        <!-- Sección de Línea Maral -->
-        <section id="lineaMaral"></section>
-        <h2 class="text-center">Línea Maral</h2>
+        <section id="lineaMaralAbierto"></section>
+        <h2 class="text-center">Línea Maral abierto</h2>
         <div class="row justify-content-center">
           <div class="col-12 col-sm-6 col-md-4 mb-4">
             <div class="card" style="height: 600px;">
-              <img src="/ilgabinetto/imagenes/fotos muebles/Marales/Maral 50.jpg" class="card-img-top" alt="Mueble 8">
+              <img src="/ilgabinetto/imagenes/fotos muebles/maral ab/abCdeck50.jpg" class="card-img-top" alt="Mueble 9">
               <div class="card-body">
-                <h5 class="card-title">Vanitory maral c/vidrio 0.50 cm c/bacha.
-                  c/bacha.</h5>
+                <h5 class="card-title">Vanitory maral abierto c/deck 0.50 cm c/bacha.</h5>
               </div>
             </div>
           </div>
 
           <div class="col-12 col-sm-6 col-md-4 mb-4">
             <div class="card" style="height: 600px;">
-              <img src="/ilgabinetto/imagenes/fotos muebles/Marales/maral60.jpg" class="card-img-top" alt="Mueble 9">
+              <img src="/ilgabinetto/imagenes/fotos muebles/maral ab/abCdeck60.jpg" class="card-img-top" alt="Mueble 9">
               <div class="card-body">
-                <h5 class="card-title">Vanitory maral c/vidrio 0.60 cm c/bacha.</h5>
+                <h5 class="card-title">Vanitory maral abierto c/deck 0.60 cm c/bacha.</h5>
               </div>
             </div>
           </div>
 
-          <div class="col-12 col-sm-6 col-md-4 mb-4">
-            <div class="card" style="height: 600px;">
-              <img src="/ilgabinetto/imagenes/fotos muebles/Marales/Maral 80 wengue.jpg" class="card-img-top" alt="Mueble 9">
-              <div class="card-body">
-                <h5 class="card-title">Vanitory maral c/vidrio 0.80 cm w c/bacha.</h5>
-              </div>
-            </div>
-          </div>
-
-
-          <div class="col-12 col-sm-6 col-md-4 mb-4">
-            <div class="card" style="height: 600px;">
-              <img src="/ilgabinetto/imagenes/fotos muebles/Marales/Maral 100.jpg" class="card-img-top" alt="Mueble 9">
-              <div class="card-body">
-                <h5 class="card-title">Vanitory maral c/vidrio 100 cm c/bacha.</h5>
-              </div>
-            </div>
-          </div>
-
-          <section id="lineaMaralAbierto"></section>
-          <h2 class="text-center">Línea Maral abierto</h2>
+          <section id="peinadorClasico"></section>
+          <h2 class="text-center">Línea Peinador Clásico</h2>
           <div class="row justify-content-center">
             <div class="col-12 col-sm-6 col-md-4 mb-4">
               <div class="card" style="height: 600px;">
-                <img src="/ilgabinetto/imagenes/fotos muebles/maral ab/abCdeck50.jpg" class="card-img-top" alt="Mueble 9">
+                <img src="/ilgabinetto/imagenes/fotos muebles/Peinador Clasico/Peina 50.jpg" class="card-img-top" alt="Peinador Clásico 1">
                 <div class="card-body">
-                  <h5 class="card-title">Vanitory maral abierto c/deck 0.50 cm c/bacha.</h5>
+                  <h5 class="card-title">Peinador c/luces y puerta de 0.50 cm.</h5>
                 </div>
               </div>
             </div>
 
             <div class="col-12 col-sm-6 col-md-4 mb-4">
               <div class="card" style="height: 600px;">
-                <img src="/ilgabinetto/imagenes/fotos muebles/maral ab/abCdeck60.jpg" class="card-img-top" alt="Mueble 9">
+                <img src="/ilgabinetto/imagenes/fotos muebles/Peinador Clasico/Peina 60.jpg" class="card-img-top" alt="Peinador Clásico 2">
                 <div class="card-body">
-                  <h5 class="card-title">Vanitory maral abierto c/deck 0.60 cm c/bacha.</h5>
+                  <h5 class="card-title">Peinador c/luces y puerta de 0.60 cm.</h5>
                 </div>
               </div>
             </div>
 
-            <section id="peinadorClasico"></section>
-            <h2 class="text-center">Línea Peinador Clásico</h2>
+            <section id="Marcoespejo"></section>
+            <h2 class="text-center">Línea Marcoespejo</h2>
             <div class="row justify-content-center">
               <div class="col-12 col-sm-6 col-md-4 mb-4">
                 <div class="card" style="height: 600px;">
-                  <img src="/ilgabinetto/imagenes/fotos muebles/Peinador Clasico/Peina 50.jpg" class="card-img-top" alt="Peinador Clásico 1">
+                  <img src="/ilgabinetto/imagenes/fotos muebles/Marcoespejo/marcoespejo 50.jpg" class="card-img-top" alt="Peinador Clásico 1">
                   <div class="card-body">
-                    <h5 class="card-title">Peinador c/luces y puerta de 0.50 cm.</h5>
+                    <h5 class="card-title">Marcoespejo 0.50 cm.</h5>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="col-12 col-sm-6 col-md-4 mb-4">
+                <div class="card" style="height: 600px;">
+                  <img src="/ilgabinetto/imagenes/fotos muebles/Marcoespejo/marcoespejo 60.jpg" class="card-img-top" alt="Peinador Clásico 1">
+                  <div class="card-body">
+                    <h5 class="card-title">Marcoespejo 0.60 cm.</h5>
                   </div>
                 </div>
               </div>
 
               <div class="col-12 col-sm-6 col-md-4 mb-4">
                 <div class="card" style="height: 600px;">
-                  <img src="/ilgabinetto/imagenes/fotos muebles/Peinador Clasico/Peina 60.jpg" class="card-img-top" alt="Peinador Clásico 2">
+                  <img src="/ilgabinetto/imagenes/fotos muebles/Marcoespejo/marcoespejo 80.png" class="card-img-top" alt="Peinador Clásico 1">
                   <div class="card-body">
-                    <h5 class="card-title">Peinador c/luces y puerta de 0.60 cm.</h5>
+                    <h5 class="card-title">Marcoespejo 0.80 cm.</h5>
                   </div>
                 </div>
               </div>
 
-              <section id="Marcoespejo"></section>
-              <h2 class="text-center">Línea Marcoespejo</h2>
+              <div class="col-12 col-sm-6 col-md-4 mb-4">
+                <div class="card" style="height: 600px;">
+                  <img src="/ilgabinetto/imagenes/fotos muebles/Marcoespejo/marcoespejo 100.jpg" class="card-img-top" alt="Peinador Clásico 1">
+                  <div class="card-body">
+                    <h5 class="card-title">Marcoespejo 100 cm.</h5>
+                  </div>
+                </div>
+              </div>
+
+              <section id="peinadorMaral"></section>
+              <h2 class="text-center">Línea Peinador Maral</h2>
               <div class="row justify-content-center">
                 <div class="col-12 col-sm-6 col-md-4 mb-4">
                   <div class="card" style="height: 600px;">
-                    <img src="/ilgabinetto/imagenes/fotos muebles/Marcoespejo/marcoespejo 50.jpg" class="card-img-top" alt="Peinador Clásico 1">
+                    <img src="/ilgabinetto/imagenes/fotos muebles/Peinador maral/Peina Maral 100.jpg" class="card-img-top" alt="Peinador Clásico 1">
                     <div class="card-body">
-                      <h5 class="card-title">Marcoespejo 0.50 cm.</h5>
+                      <h5 class="card-title">Peinador c/luces y puerta maral de 100 cm.</h5>
                     </div>
                   </div>
                 </div>
 
-
-                <div class="col-12 col-sm-6 col-md-4 mb-4">
-                  <div class="card" style="height: 600px;">
-                    <img src="/ilgabinetto/imagenes/fotos muebles/Marcoespejo/marcoespejo 60.jpg" class="card-img-top" alt="Peinador Clásico 1">
-                    <div class="card-body">
-                      <h5 class="card-title">Marcoespejo 0.60 cm.</h5>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-12 col-sm-6 col-md-4 mb-4">
-                  <div class="card" style="height: 600px;">
-                    <img src="/ilgabinetto/imagenes/fotos muebles/Marcoespejo/marcoespejo 80.png" class="card-img-top" alt="Peinador Clásico 1">
-                    <div class="card-body">
-                      <h5 class="card-title">Marcoespejo 0.80 cm.</h5>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-12 col-sm-6 col-md-4 mb-4">
-                  <div class="card" style="height: 600px;">
-                    <img src="/ilgabinetto/imagenes/fotos muebles/Marcoespejo/marcoespejo 100.jpg" class="card-img-top" alt="Peinador Clásico 1">
-                    <div class="card-body">
-                      <h5 class="card-title">Marcoespejo 100 cm.</h5>
-                    </div>
-                  </div>
-                </div>
-
-                <section id="peinadorMaral"></section>
-                <h2 class="text-center">Línea Peinador Maral</h2>
+                <section id="tolvaClasica"></section>
+                <h2 class="text-center">Línea Tolva Clasica</h2>
                 <div class="row justify-content-center">
                   <div class="col-12 col-sm-6 col-md-4 mb-4">
                     <div class="card" style="height: 600px;">
-                      <img src="/ilgabinetto/imagenes/fotos muebles/Peinador maral/Peina Maral 100.jpg" class="card-img-top" alt="Peinador Clásico 1">
+                      <img src="/ilgabinetto/imagenes/fotos muebles/Tolva Clasica/Tolva 40.jpg" class="card-img-top" alt="Peinador Clásico 1">
                       <div class="card-body">
-                        <h5 class="card-title">Peinador c/luces y puerta maral de 100 cm.</h5>
+                        <h5 class="card-title">Tolva 0.40 cm.</h5>
                       </div>
                     </div>
                   </div>
 
-                  <section id="tolvaClasica"></section>
-                  <h2 class="text-center">Línea Tolva Clasica</h2>
+                  <div class="col-12 col-sm-6 col-md-4 mb-4">
+                    <div class="card" style="height: 600px;">
+                      <img src="/ilgabinetto/imagenes/fotos muebles/Tolva Clasica/tolva clasica 30.jpg" class="card-img-top" alt="Peinador Clásico 1">
+                      <div class="card-body">
+                        <h5 class="card-title">Tolva 0.30 cm.</h5>
+                      </div>
+                    </div>
+                  </div>
+
+                  <section id="tolvaMaral"></section>
+                  <h2 class="text-center"> Línea Tolva Maral</h2>
                   <div class="row justify-content-center">
                     <div class="col-12 col-sm-6 col-md-4 mb-4">
                       <div class="card" style="height: 600px;">
-                        <img src="/ilgabinetto/imagenes/fotos muebles/Tolva Clasica/Tolva 40.jpg" class="card-img-top" alt="Peinador Clásico 1">
+                        <img src="/ilgabinetto/imagenes/fotos muebles/Tolva Maral/Tolva Maral 40.jpg" class="card-img-top" alt="Peinador Clásico 1">
                         <div class="card-body">
-                          <h5 class="card-title">Tolva 0.40 cm.</h5>
+                          <h5 class="card-title">Tolva maral 0.30 cm.</h5>
                         </div>
                       </div>
                     </div>
 
                     <div class="col-12 col-sm-6 col-md-4 mb-4">
                       <div class="card" style="height: 600px;">
-                        <img src="/ilgabinetto/imagenes/fotos muebles/Tolva Clasica/tolva clasica 30.jpg" class="card-img-top" alt="Peinador Clásico 1">
+                        <img src="/ilgabinetto/imagenes/fotos muebles/Tolva Maral/Tolva Maral 40.jpg" class="card-img-top" alt="Peinador Clásico 1">
                         <div class="card-body">
-                          <h5 class="card-title">Tolva 0.30 cm.</h5>
+                          <h5 class="card-title">Tolva maral 0.40 cm.</h5>
                         </div>
                       </div>
                     </div>
 
-                    <section id="tolvaMaral"></section>
-                    <h2 class="text-center"> Línea Tolva Maral</h2>
+                    <section id="Lavadero"></section>
+                    <h2 class="text-center">Línea Lavaderos</h2>
                     <div class="row justify-content-center">
                       <div class="col-12 col-sm-6 col-md-4 mb-4">
                         <div class="card" style="height: 600px;">
-                          <img src="/ilgabinetto/imagenes/fotos muebles/Tolva Maral/Tolva Maral 40.jpg" class="card-img-top" alt="Peinador Clásico 1">
+                          <img src="/ilgabinetto/imagenes/fotos muebles/Lavadero/lavadero 50.jpg" class="card-img-top" alt="Peinador Clásico 1">
                           <div class="card-body">
-                            <h5 class="card-title">Tolva maral 0.30 cm.</h5>
+                            <h5 class="card-title">Lavadero 0.50 cm c/pileta.</h5>
                           </div>
                         </div>
                       </div>
 
                       <div class="col-12 col-sm-6 col-md-4 mb-4">
                         <div class="card" style="height: 600px;">
-                          <img src="/ilgabinetto/imagenes/fotos muebles/Tolva Maral/Tolva Maral 40.jpg" class="card-img-top" alt="Peinador Clásico 1">
+                          <img src="/ilgabinetto/imagenes/fotos muebles/Lavadero/lavadero 60.jpg" class="card-img-top" alt="Peinador Clásico 1">
                           <div class="card-body">
-                            <h5 class="card-title">Tolva maral 0.40 cm.</h5>
+                            <h5 class="card-title">Lavadero 0.60 cm c/pileta.</h5>
                           </div>
                         </div>
                       </div>
 
-                      <section id="Lavadero"></section>
-                      <h2 class="text-center">Línea Lavaderos</h2>
-                      <div class="row justify-content-center">
-                        <div class="col-12 col-sm-6 col-md-4 mb-4">
-                          <div class="card" style="height: 600px;">
-                            <img src="/ilgabinetto/imagenes/fotos muebles/Lavadero/lavadero 50.jpg" class="card-img-top" alt="Peinador Clásico 1">
-                            <div class="card-body">
-                              <h5 class="card-title">Lavadero 0.50 cm c/pileta.</h5>
-                            </div>
+                      <div class="col-12 col-sm-6 col-md-4 mb-4">
+                        <div class="card" style="height: 600px;">
+                          <img src="/ilgabinetto/imagenes/fotos muebles/Lavadero/lavadero 75.jpg" class="card-img-top" alt="Peinador Clásico 1">
+                          <div class="card-body">
+                            <h5 class="card-title">Lavadero 0.75 cm c/pileta.</h5>
                           </div>
                         </div>
-
-                        <div class="col-12 col-sm-6 col-md-4 mb-4">
-                          <div class="card" style="height: 600px;">
-                            <img src="/ilgabinetto/imagenes/fotos muebles/Lavadero/lavadero 60.jpg" class="card-img-top" alt="Peinador Clásico 1">
-                            <div class="card-body">
-                              <h5 class="card-title">Lavadero 0.60 cm c/pileta.</h5>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div class="col-12 col-sm-6 col-md-4 mb-4">
-                          <div class="card" style="height: 600px;">
-                            <img src="/ilgabinetto/imagenes/fotos muebles/Lavadero/lavadero 75.jpg" class="card-img-top" alt="Peinador Clásico 1">
-                            <div class="card-body">
-                              <h5 class="card-title">Lavadero 0.75 cm c/pileta.</h5>
-                            </div>
-                          </div>
-                        </div>
-
                       </div>
+
                     </div>
                   </div>
-
                 </div>
-              </div>
 
+              </div>
             </div>
 
           </div>
+
         </div>
-
       </div>
 
+    </div>
 
 
 
-      <div class="wasap">
-        <a href="https://wa.me/541157335794"><img src="/ilgabinetto/imagenes/WhatsApp.svg.webp" alt="" class="buton-wasap"></a>
-      </div>
+
+    <div class="wasap">
+      <a href="https://wa.me/541157335794"><img src="/ilgabinetto/imagenes/WhatsApp.svg.webp" alt="" class="buton-wasap"></a>
+    </div>
 
   </div>
 
