@@ -29,7 +29,7 @@
 
       <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-link" href="inicio.php">Inicio</a>
+          <a class="nav-link" href="index.php">Inicio</a>
 
           <!-- Botón "Catálogo" con opciones desplegables -->
           <div class="nav-item dropdown">
