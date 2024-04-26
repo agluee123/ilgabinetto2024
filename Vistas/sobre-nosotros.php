@@ -79,7 +79,7 @@
 
     <!--FIN NAVBAR-->
 
-    <div class="container mt-5">
+    <div class="container">
         <div class="row">
             <div class="col-lg-6">
                 <h1>Sobre Nosotros</h1>
@@ -103,7 +103,7 @@
         <a href="https://wa.me/541157335794"><img src="/ilgabinetto/imagenes/WhatsApp.svg.webp" alt="" class="buton-wasap"></a>
     </div>
 
-    <footer class="bg-light text-center text-muted py-4">
+    <footer class="bg-light text-center text-muted ">
         <div>
             <p>&copy; 2024 Il gabinetto Fabrica de muebles para baño. Todos los derechos reservados.</p>
             <p>Contáctanos: ilgabinetto@yahoo.com.ar | Teléfono: (011) 4467-5151</p>

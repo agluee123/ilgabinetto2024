@@ -167,8 +167,8 @@
     </div>
   </div>
 
-  <footer class="bg-light text-center text-muted py-4">
-    <div class="container">
+  <footer class="bg-light text-center text-muted">
+    <div>
       <p>
         &copy; 2024 Il gabinetto Fabrica de muebles para baño. Todos los
         derechos reservados.
